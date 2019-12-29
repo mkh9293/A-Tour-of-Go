@@ -1,4 +1,8 @@
 # A-Tour-of-Go
 📖 running A Tour of Go  
+<br>
 
-[Map](Map.md)
+Category  
+
+[Map](Map.md)  
+[Function](Function.md)
