@@ -6,8 +6,12 @@ func main() {
 	// exerciseMaps()
 	// functionValues()
 	// functionClosures()
-	// exerciseFibonacciClosur
-	
-	//  exerciseLoopsAndFunctions()
-	methods()
+	// exerciseFibonacciClosur()
+	// exerciseLoopsAndFunctions()
+	// method()
+	// methodsFunc()
+	// methodsPointers()
+	// interfaces()
+	interfaceValues()
+
 }
