@@ -6,5 +6,8 @@ func main() {
 	// exerciseMaps()
 	// functionValues()
 	// functionClosures()
-	exerciseFibonacciClosure()
+	// exerciseFibonacciClosur
+	
+	//  exerciseLoopsAndFunctions()
+	methods()
 }
